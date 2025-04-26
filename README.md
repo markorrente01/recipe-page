@@ -31,8 +31,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-* Solution URL: [](https://www.frontendmentor.io/solutions/sass-flexbox-responsive-media-queries-OA8QOTEoWd)
-* Live Site URL: [](https://markorrente01.github.io/recipe-page/)
+* [solution url](https://www.frontendmentor.io/solutions/sass-flexbox-responsive-media-queries-OA8QOTEoWd)
+* [live site url](https://markorrente01.github.io/recipe-page/)
 
 
 
